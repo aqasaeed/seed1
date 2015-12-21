@@ -1,3 +1,3 @@
-[submodule "test"]
+[submodule "tg"]
 	path = tg
-	url = https://github.com/vysheng/tg/blob/test
+	url = https://github.com/vysheng/tg/tree/test
