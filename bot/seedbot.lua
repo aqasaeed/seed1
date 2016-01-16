@@ -214,6 +214,7 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
+    "plugins",
     "get",
     "broadcast",
     "download_media",
@@ -221,7 +222,7 @@ function create_config( )
     },
     sudo_users = {146340607,156907037,163180332,167328685},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {75293824},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
